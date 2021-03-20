@@ -103,3 +103,10 @@ According to this, about 2400 workers + fertile queen is enough.
 Bees form winter clusters to survive colder temperatures.
 
 https://en.wikipedia.org/wiki/Winter_cluster
+
+Other bee media
+
+- bee simulaor - https://www.youtube.com/watch?v=p4Q0CeHk1Y8, it really
+sucks
+- bee swarm simulator - https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator 
+reminds me of minecraft
