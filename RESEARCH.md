@@ -110,3 +110,8 @@ Other bee media
 sucks
 - bee swarm simulator - https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator 
 reminds me of minecraft
+
+# Tech details
+
+Here is a video on game loops with hooks: https://youtu.be/uJRXJxsvj7Q?t=215
+And: https://youtu.be/uJRXJxsvj7Q?t=339
